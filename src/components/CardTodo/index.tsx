@@ -26,7 +26,7 @@ import {
 } from './styles';
 
 export type ToDoProps = {
-  type: 'list' | 'task';
+  type: 'list' | 'task' | 'subtask';
   name: string;
   taskId?: string;
   listId?: string;

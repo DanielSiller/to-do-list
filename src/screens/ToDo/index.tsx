@@ -205,6 +205,7 @@ export function ToDo({ route }) {
             value={subTaskName}
             onChangeText={(value) => setSubTaskName(value)}
             placeholder="Adicione uma nova sub tarefa"
+            autoCorrect={false}
           />
           <ButtonIcon onPress={handleSaveSubTask}>
             <Icon name='plus-circle' size={20} color={theme.colors.shape}/>
@@ -216,7 +217,7 @@ export function ToDo({ route }) {
             <CardTodo
               data={{
                 name: item.title,
-                type: "task",
+                type: "subtask",
                 listId,
                 taskId: task.id
               }}
