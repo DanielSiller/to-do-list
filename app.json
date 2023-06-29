@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "to-do-list",
+    "slug": "to-do-list",
+    "version": "1.0.0",
+    "scheme": "todolist",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.todolist"
+    }
+  }
+}
