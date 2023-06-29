@@ -7,7 +7,7 @@ This tool helps you organize your tasks and sub-tasks, allowing you to create a 
 ## Features
 
 ### Lists
--[ ] **Create List** 
+- [ ] **Create List** 
 You can create multiple task lists and share them with people, **but only the owner can delete or edit the list's name.**
 
 ### Tasks
@@ -17,7 +17,7 @@ Each list can have its respective tasks, and each task can be edited in the foll
 - [ ] **Edit the task's name.**
 - [ ] **Delete a task.**
 
-### Subtask
+### Subtasks
 Each task will have its subtasks, in which we can:
 
 - [ ] **Edit the description.**
