@@ -131,7 +131,7 @@ export function CardTodo({
   function openMail() {
     const url = createURL(`todolist/list/${data.listId}/${data.name}`, {})
 
-    openURL(`mailto:teste-tecnico@vibbra.com.br?subject=To-Do&body=Estou compartilhando minha lista de tarefas, para acessar click no link abaixo%0A%0A${url}`)
+    openURL(`mailto:teste@mail.com.br?subject=To-Do&body=Estou compartilhando minha lista de tarefas, para acessar click no link abaixo%0A%0A${url}`)
   }
 
   return( 
