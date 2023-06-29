@@ -68,6 +68,7 @@ export function Home({ navigation: { navigate } }) {
         })
       })
     }
+    setNameTodo('')
     await fetchData()
     setVisible(false)
   }
