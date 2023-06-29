@@ -7,23 +7,23 @@ This tool helps you organize your tasks and sub-tasks, allowing you to create a 
 ## Features
 
 ### Lists
-- [ ] **Create List** 
+- [X] **Create List** 
 You can create multiple task lists and share them with people, **but only the owner can delete or edit the list's name.**
 
 ### Tasks
 Each list can have its respective tasks, and each task can be edited in the following ways:
 
-- [ ] **Move the task into another task, transforming it into a subtask.**
-- [ ] **Edit the task's name.**
-- [ ] **Delete a task.**
+- [X] **Move the task into another task, transforming it into a subtask.**
+- [X] **Edit the task's name.**
+- [X] **Delete a task.**
 
 ### Subtasks
 Each task will have its subtasks, in which we can:
 
-- [ ] **Edit the description.**
-- [ ] **Delete the subtask.**
-- [ ] **Move it into another task.**
-- [ ] **Transform it into a task.**
+- [X] **Edit the description.**
+- [X] **Delete the subtask.**
+- [X] **Move it into another task.**
+- [X] **Transform it into a task.**
 
 ## Getting Started
 
